@@ -11,10 +11,10 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 
 | Project Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Project Instructions |
 | ----------- | ------------- | ------------------- | ------------------ | ------------------------------------------------- | -------------------- |
-| 1           | 2026-08-30    | 2026-09-20          | Aleksandar Cvejic  | Fully Connected Neural Networks                   | [Download](P1_XXX_YYY_CS225.ipynb) |
-| 2           | 2026-09-20    | 2026-10-14          | Fedor Rodionov     | Convolutional Networks                            | [Download](Project_2_Convolutional_Networks.zip) |
-| 3           | 2026-10-14    | 2026-11-08          | Jianqi Chen        | Transformer / Sentiment Analysis                  | [Download](Project_3_transformer_sentiment_analysis.zip) |
-| 4           | 2026-11-11    | 2026-12-06          | Ahmed Abdelreheem  | Low-Rank Adaptation (LoRA)                        | [Download](Project_4_PC_LLM_code.zip) |                    
+| 1           | 2026-08-30    | 2026-09-20          |   | TBA            |  |
+| 2           | 2026-09-20    | 2026-10-14          |   | TBA            |  |
+| 3           | 2026-10-14    | 2026-11-08          |   | TBA            |  |
+| 4           | 2026-11-11    | 2026-12-06          |   | TBA            |  |                    
 
 # Full Course Time Schedule
 

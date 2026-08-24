@@ -20,6 +20,8 @@
     --c-general: #eb6834; /* General Assignment */
     --c-quiz:    #1baf7a; /* Quiz */
     --c-final:   #d03b3b; /* Final Exam */
+    --c-lecture-bg:   #e1e0d9; /* Lecture (muted, so deadlines still stand out) */
+    --c-lecture-text: #52514e;
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -37,6 +39,8 @@
       --c-general: #d95926;
       --c-quiz:    #199e70;
       --c-final:   #d03b3b;
+      --c-lecture-bg:   #2c2c2a;
+      --c-lecture-text: #c3c2b7;
     }
   }
 
@@ -82,6 +86,7 @@
   .swatch.ev-general { background: var(--c-general); }
   .swatch.ev-quiz    { background: var(--c-quiz); }
   .swatch.ev-final   { background: var(--c-final); }
+  .swatch.ev-lecture { background: var(--c-lecture-bg); border: 1px solid var(--border); }
 
   #calendar-wrap {
     background: var(--surface-1);
@@ -117,6 +122,7 @@
   .fc-event.ev-general { background: var(--c-general); }
   .fc-event.ev-quiz    { background: var(--c-quiz); }
   .fc-event.ev-final   { background: var(--c-final); font-weight: 600; }
+  .fc-event.ev-lecture { background: var(--c-lecture-bg); color: var(--c-lecture-text); border: 1px solid var(--border); }
 </style>
 </head>
 <body>
@@ -132,6 +138,7 @@
     <span class="legend-item"><span class="swatch ev-general"></span>General Assignment</span>
     <span class="legend-item"><span class="swatch ev-quiz"></span>Quiz</span>
     <span class="legend-item"><span class="swatch ev-final"></span>Final Exam</span>
+    <span class="legend-item"><span class="swatch ev-lecture"></span>Lecture</span>
   </div>
 
   <div id="calendar-wrap">
@@ -173,6 +180,24 @@
     // Final Exam
     { title: 'Final Exam, 4:30 p.m.', start: '2026-12-15T16:30:00', className: 'ev-final' },
   ];
+
+  // Lectures: every Sunday & Wednesday, 14:30-16:00, except Saudi National Day
+  // (Sep 23) and the mid-semester break (Oct 18) - no class on either day.
+  const lectureDates = [
+    '2026-08-30', '2026-09-02', '2026-09-06', '2026-09-09', '2026-09-13', '2026-09-16', '2026-09-20',
+    '2026-09-27', '2026-09-30', '2026-10-04', '2026-10-07', '2026-10-11', '2026-10-14',
+    '2026-10-21', '2026-10-25', '2026-10-28', '2026-11-01', '2026-11-04', '2026-11-08', '2026-11-11',
+    '2026-11-15', '2026-11-18', '2026-11-22', '2026-11-25', '2026-11-29',
+    '2026-12-02', '2026-12-06', '2026-12-09', '2026-12-13',
+  ];
+  for (const d of lectureDates) {
+    events.push({
+      title: 'Lecture',
+      start: d + 'T14:30:00',
+      end: d + 'T16:00:00',
+      className: 'ev-lecture',
+    });
+  }
 
   document.addEventListener('DOMContentLoaded', function () {
     const calendarEl = document.getElementById('calendar');

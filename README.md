@@ -1,6 +1,8 @@
 # CS225-2026
 Neural Network Design and Training
 
+[View the color-coded course calendar](calendar.html)
+
 # Introduction
 [Organizational Notes](https://docs.google.com/document/d/1l-Te6-_qTPBZPMusdre2hhs5qRPaghqMHR11KxlTz68/edit?usp=sharing)
 

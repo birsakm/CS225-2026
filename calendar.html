@@ -181,14 +181,16 @@
     { title: 'Final Exam, 4:30 p.m.', start: '2026-12-15T16:30:00', className: 'ev-final' },
   ];
 
-  // Lectures: every Sunday & Wednesday, 14:30-16:00, except Saudi National Day
-  // (Sep 23) and the mid-semester break (Oct 18) - no class on either day.
+  // Lectures: every Sunday & Wednesday, 14:30-16:00, from Aug 30 through the
+  // last lecture on Dec 9. Excludes Saudi National Day (Sep 23) and the
+  // mid-semester break (Oct 18) - no class on either day. Dec 13 is finals
+  // week, so it is not a lecture day either.
   const lectureDates = [
     '2026-08-30', '2026-09-02', '2026-09-06', '2026-09-09', '2026-09-13', '2026-09-16', '2026-09-20',
     '2026-09-27', '2026-09-30', '2026-10-04', '2026-10-07', '2026-10-11', '2026-10-14',
     '2026-10-21', '2026-10-25', '2026-10-28', '2026-11-01', '2026-11-04', '2026-11-08', '2026-11-11',
     '2026-11-15', '2026-11-18', '2026-11-22', '2026-11-25', '2026-11-29',
-    '2026-12-02', '2026-12-06', '2026-12-09', '2026-12-13',
+    '2026-12-02', '2026-12-06', '2026-12-09',
   ];
   for (const d of lectureDates) {
     events.push({

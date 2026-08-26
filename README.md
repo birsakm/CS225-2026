@@ -9,11 +9,11 @@ Neural Network Design and Training
 The slides to the introduction given in class you can find [here](https://docs.google.com/presentation/d/1axIti0eqyr5MZ_OCMpFY6JhukKIqu3qxmLYKSq8w1us/edit?usp=sharing). We further created a short [Introduction](introduction.md) about the prerequisites of the course, which hardware to use and how to set up the programming environment.
 
 # Programming Assignments
-Each Programming Assignment covers a specific topic and is submitted via [BlackBoard](https://blackboard.kaust.edu.sa/).
+Each Programming Assignment covers a specific topic and is submitted via [BlackBoard](https://blackboard.kaust.edu.sa/). *Exception: PA1's deadline is extended to September 16 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester.*
 
 | Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Instructions |
 | --- | ------------- | -------------------- | ------------------- | -------------------------------------------------- | -------------------- |
-| 1   | 2026-08-30    | 2026-09-06            | Fedor Rodionov       | Tensors & a Linear Classifier                       |  |
+| 1   | 2026-08-30    | 2026-09-16            | Fedor Rodionov       | Tensors & a Linear Classifier                       |  |
 | 2   | 2026-09-13    | 2026-09-20            | Wenqing Cui          | Building a Conv-BN-ReLU Block                       |  |
 | 3   | 2026-09-27    | 2026-10-04            | Diego E. Farchione   | Initialize, Augment, Optimize                       |  |
 | 4   | 2026-10-11    | 2026-10-21            | Xiangjun Tang        | Instrumenting Training                              |  |
@@ -23,11 +23,11 @@ Each Programming Assignment covers a specific topic and is submitted via [BlackB
 | 8   | 2026-11-25    | 2026-12-02            | Xiangjun Tang        | ViT & a Diffusion Step                              |  |
 
 # General Assignments
-Each General Assignment covers material taught in class (course review).
+Each General Assignment covers material taught in class (course review). *Exception: GA1's deadline is extended to September 16 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester.*
 
 | Nr. | Announcement | Submission Deadline | Teaching Assistant  | Topic                                     |
 | --- | ------------ | -------------------- | ------------------- | ------------------------------------------ |
-| 1   | 2026-09-02   | 2026-09-09            | Fedor Rodionov       | Foundations of Deep Learning                |
+| 1   | 2026-09-02   | 2026-09-16            | Fedor Rodionov       | Foundations of Deep Learning                |
 | 2   | 2026-09-16   | 2026-09-27            | Wenqing Cui          | Layers, Activations & the Chain Rule        |
 | 3   | 2026-09-30   | 2026-10-07            | Diego E. Farchione   | Initialization, Regularization & Optimizers |
 | 4   | 2026-10-14   | 2026-10-25            | Xiangjun Tang        | Reading a Training Run                      |

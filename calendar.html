@@ -16,7 +16,7 @@
     --border:         rgba(11,11,11,0.10);
     --today-tint:     rgba(42,120,214,0.10);
 
-    --c-project: #2a78d6; /* Project + Programming Assignment */
+    --c-pa: #2a78d6; /* Programming Assignment */
     --c-general: #eb6834; /* General Assignment */
     --c-quiz:    #1baf7a; /* Quiz */
     --c-final:   #d03b3b; /* Final Exam */
@@ -35,7 +35,7 @@
       --border:         rgba(255,255,255,0.10);
       --today-tint:     rgba(57,135,229,0.14);
 
-      --c-project: #3987e5;
+      --c-pa: #3987e5;
       --c-general: #d95926;
       --c-quiz:    #199e70;
       --c-final:   #d03b3b;
@@ -55,7 +55,7 @@
   .page { max-width: 980px; margin: 0 auto; }
   header h1 { margin: 0 0 4px; font-size: 1.6em; }
   header .sub { color: var(--text-secondary); margin: 0 0 12px; }
-  header a { color: var(--c-project); text-decoration: none; }
+  header a { color: var(--c-pa); text-decoration: none; }
   header a:hover { text-decoration: underline; }
 
   .legend {
@@ -82,7 +82,7 @@
     display: inline-block;
     flex-shrink: 0;
   }
-  .swatch.ev-project { background: var(--c-project); }
+  .swatch.ev-pa { background: var(--c-pa); }
   .swatch.ev-general { background: var(--c-general); }
   .swatch.ev-quiz    { background: var(--c-quiz); }
   .swatch.ev-final   { background: var(--c-final); }
@@ -96,7 +96,7 @@
   }
 
   .note { color: var(--text-muted); font-size: 13px; margin-top: 16px; }
-  .note a { color: var(--c-project); }
+  .note a { color: var(--c-pa); }
 
   /* FullCalendar theming to match the palette above */
   .fc {
@@ -109,8 +109,8 @@
     --fc-button-border-color: var(--border);
     --fc-button-text-color: var(--text-primary);
     --fc-button-hover-bg-color: var(--gridline);
-    --fc-button-active-bg-color: var(--c-project);
-    --fc-button-active-border-color: var(--c-project);
+    --fc-button-active-bg-color: var(--c-pa);
+    --fc-button-active-border-color: var(--c-pa);
     color: var(--text-primary);
   }
   .fc .fc-toolbar-title { color: var(--text-primary); font-size: 1.15em; }
@@ -118,7 +118,7 @@
   .fc .fc-daygrid-day-number { color: var(--text-secondary); text-decoration: none; }
   .fc .fc-daygrid-day-number { font-size: 13px; }
   .fc-event { color: #fff; border-radius: 4px; border: none; font-size: 12px; padding: 1px 4px; }
-  .fc-event.ev-project { background: var(--c-project); }
+  .fc-event.ev-pa { background: var(--c-pa); }
   .fc-event.ev-general { background: var(--c-general); }
   .fc-event.ev-quiz    { background: var(--c-quiz); }
   .fc-event.ev-final   { background: var(--c-final); font-weight: 600; }
@@ -134,7 +134,7 @@
   </header>
 
   <div class="legend">
-    <span class="legend-item"><span class="swatch ev-project"></span>Project + Programming Assignment</span>
+    <span class="legend-item"><span class="swatch ev-pa"></span>Programming Assignment</span>
     <span class="legend-item"><span class="swatch ev-general"></span>General Assignment</span>
     <span class="legend-item"><span class="swatch ev-quiz"></span>Quiz</span>
     <span class="legend-item"><span class="swatch ev-final"></span>Final Exam</span>
@@ -151,15 +151,15 @@
 <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
 <script>
   const events = [
-    // Project + Programming Assignment (announced together; single submission deadline)
-    { title: 'Project 1 + PA 1', start: '2026-08-30', end: '2026-09-07', className: 'ev-project' },
-    { title: 'Project 2 + PA 2', start: '2026-09-13', end: '2026-09-21', className: 'ev-project' },
-    { title: 'Project 3 + PA 3', start: '2026-09-27', end: '2026-10-05', className: 'ev-project' },
-    { title: 'Project 4 + PA 4', start: '2026-10-11', end: '2026-10-22', className: 'ev-project' },
-    { title: 'Project 5 + PA 5', start: '2026-10-25', end: '2026-11-02', className: 'ev-project' },
-    { title: 'Project 6 + PA 6', start: '2026-11-04', end: '2026-11-12', className: 'ev-project' },
-    { title: 'Project 7 + PA 7', start: '2026-11-15', end: '2026-11-23', className: 'ev-project' },
-    { title: 'Project 8 + PA 8', start: '2026-11-25', end: '2026-12-03', className: 'ev-project' },
+    // Programming Assignments (single submission deadline each)
+    { title: 'Programming Assignment 1', start: '2026-08-30', end: '2026-09-07', className: 'ev-pa' },
+    { title: 'Programming Assignment 2', start: '2026-09-13', end: '2026-09-21', className: 'ev-pa' },
+    { title: 'Programming Assignment 3', start: '2026-09-27', end: '2026-10-05', className: 'ev-pa' },
+    { title: 'Programming Assignment 4', start: '2026-10-11', end: '2026-10-22', className: 'ev-pa' },
+    { title: 'Programming Assignment 5', start: '2026-10-25', end: '2026-11-02', className: 'ev-pa' },
+    { title: 'Programming Assignment 6', start: '2026-11-04', end: '2026-11-12', className: 'ev-pa' },
+    { title: 'Programming Assignment 7', start: '2026-11-15', end: '2026-11-23', className: 'ev-pa' },
+    { title: 'Programming Assignment 8', start: '2026-11-25', end: '2026-12-03', className: 'ev-pa' },
 
     // General Assignments (course-review content)
     { title: 'General Assignment 1', start: '2026-09-02', end: '2026-09-10', className: 'ev-general' },
@@ -171,11 +171,11 @@
     { title: 'General Assignment 7', start: '2026-11-18', end: '2026-11-26', className: 'ev-general' },
     { title: 'General Assignment 8', start: '2026-11-29', end: '2026-12-07', className: 'ev-general' },
 
-    // Quizzes (each covers two Projects)
-    { title: 'Quiz 1 (Projects 1-2)', start: '2026-09-30', className: 'ev-quiz' },
-    { title: 'Quiz 2 (Projects 3-4)', start: '2026-10-28', className: 'ev-quiz' },
-    { title: 'Quiz 3 (Projects 5-6)', start: '2026-11-18', className: 'ev-quiz' },
-    { title: 'Quiz 4 (Projects 7-8)', start: '2026-12-09', className: 'ev-quiz' },
+    // Quizzes (each covers two Programming Assignments + the matching General Assignments)
+    { title: 'Quiz 1 (Prog. Assignments 1-2)', start: '2026-09-30', className: 'ev-quiz' },
+    { title: 'Quiz 2 (Prog. Assignments 3-4)', start: '2026-10-28', className: 'ev-quiz' },
+    { title: 'Quiz 3 (Prog. Assignments 5-6)', start: '2026-11-18', className: 'ev-quiz' },
+    { title: 'Quiz 4 (Prog. Assignments 7-8)', start: '2026-12-09', className: 'ev-quiz' },
 
     // Final Exam
     { title: 'Final Exam, 4:30 p.m.', start: '2026-12-15T16:30:00', className: 'ev-final' },

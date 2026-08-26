@@ -12,29 +12,29 @@ The slides to the introduction given in class you can find [here](https://docs.g
 Each Programming Assignment covers a specific topic and is submitted via [BlackBoard](https://blackboard.kaust.edu.sa/).
 
 | Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Instructions |
-| --- | ------------- | -------------------- | ------------------ | ------------------------------------------------- | -------------------- |
-| 1   | 2026-08-30    | 2026-09-06            |   | TBA            |  |
-| 2   | 2026-09-13    | 2026-09-20            |   | TBA            |  |
-| 3   | 2026-09-27    | 2026-10-04            |   | TBA            |  |
-| 4   | 2026-10-11    | 2026-10-21            |   | TBA            |  |
-| 5   | 2026-10-25    | 2026-11-01            |   | TBA            |  |
-| 6   | 2026-11-04    | 2026-11-11            |   | TBA            |  |
-| 7   | 2026-11-15    | 2026-11-22            |   | TBA            |  |
-| 8   | 2026-11-25    | 2026-12-02            |   | TBA            |  |
+| --- | ------------- | -------------------- | ------------------- | -------------------------------------------------- | -------------------- |
+| 1   | 2026-08-30    | 2026-09-06            | Fedor Rodionov       | Tensors & a Linear Classifier                       |  |
+| 2   | 2026-09-13    | 2026-09-20            | Wenqing Cui          | Building a Conv-BN-ReLU Block                       |  |
+| 3   | 2026-09-27    | 2026-10-04            | Diego E. Farchione   | Initialize, Augment, Optimize                       |  |
+| 4   | 2026-10-11    | 2026-10-21            | Xiangjun Tang        | Instrumenting Training                              |  |
+| 5   | 2026-10-25    | 2026-11-01            | Fedor Rodionov       | Scaled Dot-Product Attention                        |  |
+| 6   | 2026-11-04    | 2026-11-11            | Wenqing Cui          | Autoencoder to GAN                                  |  |
+| 7   | 2026-11-15    | 2026-11-22            | Diego E. Farchione   | RNNs & Graph Convolutions                           |  |
+| 8   | 2026-11-25    | 2026-12-02            | Xiangjun Tang        | ViT & a Diffusion Step                              |  |
 
 # General Assignments
 Each General Assignment covers material taught in class (course review).
 
-| Nr. | Announcement | Submission Deadline |
-| --- | ------------ | -------------------- |
-| 1   | 2026-09-02   | 2026-09-09            |
-| 2   | 2026-09-16   | 2026-09-27            |
-| 3   | 2026-09-30   | 2026-10-07            |
-| 4   | 2026-10-14   | 2026-10-25            |
-| 5   | 2026-10-28   | 2026-11-04            |
-| 6   | 2026-11-08   | 2026-11-15            |
-| 7   | 2026-11-18   | 2026-11-25            |
-| 8   | 2026-11-29   | 2026-12-06            |
+| Nr. | Announcement | Submission Deadline | Teaching Assistant  | Topic                                     |
+| --- | ------------ | -------------------- | ------------------- | ------------------------------------------ |
+| 1   | 2026-09-02   | 2026-09-09            | Fedor Rodionov       | Foundations of Deep Learning                |
+| 2   | 2026-09-16   | 2026-09-27            | Wenqing Cui          | Layers, Activations & the Chain Rule        |
+| 3   | 2026-09-30   | 2026-10-07            | Diego E. Farchione   | Initialization, Regularization & Optimizers |
+| 4   | 2026-10-14   | 2026-10-25            | Xiangjun Tang        | Reading a Training Run                      |
+| 5   | 2026-10-28   | 2026-11-04            | Fedor Rodionov       | How Attention Sees                          |
+| 6   | 2026-11-08   | 2026-11-15            | Wenqing Cui          | Generating Images                           |
+| 7   | 2026-11-18   | 2026-11-25            | Diego E. Farchione   | Search, Graphs & Sequences                  |
+| 8   | 2026-11-29   | 2026-12-06            | Xiangjun Tang        | Attacks, Diffusion & Vision Transformers    |
 
 # Quizzes
 

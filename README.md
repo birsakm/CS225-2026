@@ -14,36 +14,36 @@ Each Programming Assignment covers a specific topic and is submitted via [BlackB
 | Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Instructions |
 | --- | ------------- | -------------------- | ------------------- | -------------------------------------------------- | -------------------- |
 | 1   | 2026-08-30    | 2026-09-16            | Fedor Rodionov       | Tensors & a Linear Classifier                       |  |
-| 2   | 2026-09-20    | 2026-09-30            | Wenqing Cui          | Building a Conv-BN-ReLU Block                       |  |
-| 3   | 2026-10-04    | 2026-10-11            | Diego E. Farchione   | Initialize, Augment, Optimize                       |  |
-| 4   | 2026-10-14    | 2026-10-25            | Xiangjun Tang        | Instrumenting Training                              |  |
-| 5   | 2026-10-28    | 2026-11-04            | Fedor Rodionov       | Scaled Dot-Product Attention                        |  |
-| 6   | 2026-11-08    | 2026-11-15            | Wenqing Cui          | Autoencoder to GAN                                  |  |
-| 7   | 2026-11-18    | 2026-11-25            | Diego E. Farchione   | RNNs & Graph Convolutions                           |  |
-| 8   | 2026-11-29    | 2026-12-06            | Xiangjun Tang        | ViT & a Diffusion Step                              |  |
+| 2   | 2026-09-20    | 2026-09-27            | Wenqing Cui          | Building a Conv-BN-ReLU Block                       |  |
+| 3   | 2026-09-27    | 2026-10-04            | Diego E. Farchione   | Initialize, Augment, Optimize                       |  |
+| 4   | 2026-10-07    | 2026-10-14            | Xiangjun Tang        | Instrumenting Training                              |  |
+| 5   | 2026-10-21    | 2026-10-28            | Fedor Rodionov       | Scaled Dot-Product Attention                        |  |
+| 6   | 2026-11-01    | 2026-11-08            | Wenqing Cui          | Autoencoder to GAN                                  |  |
+| 7   | 2026-11-11    | 2026-11-18            | Diego E. Farchione   | RNNs & Graph Convolutions                           |  |
+| 8   | 2026-11-22    | 2026-11-29            | Xiangjun Tang        | ViT, LoRA & a Diffusion Step                        |  |
 
 # General Assignments
-Each General Assignment covers material taught in class (course review). *Exception: GA1's deadline is extended to September 20 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester.*
+Each General Assignment covers material taught in class (course review). *Exceptions: GA1's deadline is extended to September 20 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester. GA2 shares PA2's September 20-27 window instead of the usual staggered layout, since September 23 (Saudi National Day) blocks the normal offset.*
 
 | Nr. | Announcement | Submission Deadline | Teaching Assistant  | Topic                                     |
 | --- | ------------ | -------------------- | ------------------- | ------------------------------------------ |
 | 1   | 2026-09-02   | 2026-09-20            | Fedor Rodionov       | Foundations of Deep Learning                |
-| 2   | 2026-09-27   | 2026-10-04            | Wenqing Cui          | Layers, Activations & the Chain Rule        |
-| 3   | 2026-10-07   | 2026-10-14            | Diego E. Farchione   | Initialization, Regularization & Optimizers |
-| 4   | 2026-10-21   | 2026-10-28            | Xiangjun Tang        | Reading a Training Run                      |
-| 5   | 2026-11-01   | 2026-11-08            | Fedor Rodionov       | How Attention Sees                          |
-| 6   | 2026-11-11   | 2026-11-18            | Wenqing Cui          | Generating Images                           |
-| 7   | 2026-11-22   | 2026-11-29            | Diego E. Farchione   | Search, Graphs & Sequences                  |
-| 8   | 2026-12-02   | 2026-12-09            | Xiangjun Tang        | Attacks, Diffusion & Vision Transformers    |
+| 2   | 2026-09-20   | 2026-09-27            | Wenqing Cui          | Layers, Activations & the Chain Rule        |
+| 3   | 2026-09-30   | 2026-10-07            | Diego E. Farchione   | Initialization, Regularization & Optimizers |
+| 4   | 2026-10-14   | 2026-10-21            | Xiangjun Tang        | Reading a Training Run                      |
+| 5   | 2026-10-25   | 2026-11-01            | Fedor Rodionov       | How Attention Sees                          |
+| 6   | 2026-11-04   | 2026-11-11            | Wenqing Cui          | Generating Images                           |
+| 7   | 2026-11-15   | 2026-11-22            | Diego E. Farchione   | Search, Graphs & Sequences                  |
+| 8   | 2026-11-25   | 2026-12-02            | Xiangjun Tang        | Attacks, Diffusion & the Modern Transformer Stack |
 
 # Quizzes
 
 | Nr. | Date       | Covers                                             |
 | --- | ---------- | --------------------------------------------------- |
-| 1   | 2026-10-07 | Programming Assignments 1-2, General Assignments 1-2 |
-| 2   | 2026-11-01 | Programming Assignments 3-4, General Assignments 3-4 |
-| 3   | 2026-11-22 | Programming Assignments 5-6, General Assignments 5-6 |
-| 4   | 2026-12-09 | Programming Assignments 7-8, General Assignments 7-8 |
+| 1   | 2026-09-30 | Programming Assignments 1-2, General Assignments 1-2 |
+| 2   | 2026-10-25 | Programming Assignments 3-4, General Assignments 3-4 |
+| 3   | 2026-11-15 | Programming Assignments 5-6, General Assignments 5-6 |
+| 4   | 2026-12-06 | Programming Assignments 7-8, General Assignments 7-8 |
 
 # Final Exam
 

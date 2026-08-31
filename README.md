@@ -6,7 +6,7 @@ Neural Network Design and Training
 # Introduction
 [Organizational Notes](https://docs.google.com/document/d/1l-Te6-_qTPBZPMusdre2hhs5qRPaghqMHR11KxlTz68/edit?usp=sharing)
 
-The slides to the introduction given in class you can find [here](https://docs.google.com/presentation/d/1axIti0eqyr5MZ_OCMpFY6JhukKIqu3qxmLYKSq8w1us/edit?usp=sharing). We further created a short [Introduction](introduction.md) about the prerequisites of the course, which hardware to use and how to set up the programming environment.
+The slides to the introduction given in class you can find [here](https://docs.google.com/presentation/d/1adSvUBdmMHhY_b6Zz2vvW4oIyCCtxSp_eIPko2GK6JM/edit?usp=sharing). We further created a short [Introduction](introduction.md) about the prerequisites of the course, which hardware to use and how to set up the programming environment.
 
 # Programming Assignments
 Each Programming Assignment covers a specific topic and is submitted via [BlackBoard](https://blackboard.kaust.edu.sa/). *Exception: PA1's deadline is extended to September 16 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester.*

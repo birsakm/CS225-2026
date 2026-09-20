@@ -13,28 +13,28 @@ Each Programming Assignment covers a specific topic and is submitted via [BlackB
 
 | Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Instructions |
 | --- | ------------- | -------------------- | ------------------- | -------------------------------------------------- | -------------------- |
-| 1   | 2026-08-30    | 2026-09-16            | Fedor Rodionov       | Tensors & a Linear Classifier                       |  |
-| 2   | 2026-09-20    | 2026-09-27            | Wenqing Cui          | Building a Conv-BN-ReLU Block                       |  |
-| 3   | 2026-09-27    | 2026-10-04            | Diego E. Farchione   | Initialize, Augment, Optimize                       |  |
-| 4   | 2026-10-07    | 2026-10-14            | Xiangjun Tang        | Instrumenting Training                              |  |
-| 5   | 2026-10-21    | 2026-10-28            | Fedor Rodionov       | Scaled Dot-Product Attention                        |  |
-| 6   | 2026-11-01    | 2026-11-08            | Wenqing Cui          | Autoencoder to GAN                                  |  |
-| 7   | 2026-11-11    | 2026-11-18            | Diego E. Farchione   | RNNs & Graph Convolutions                           |  |
-| 8   | 2026-11-22    | 2026-11-29            | Xiangjun Tang        | ViT, LoRA & a Diffusion Step                        |  |
+| 1   | 2026-08-30    | 2026-09-16            | Fedor Rodionov       | Tensors & Linear Classifier                         |  |
+| 2   | 2026-09-20    | 2026-09-27            | Wenqing Cui          | ConvNets                                            |  |
+| 3   | 2026-09-27    | 2026-10-04            | Diego E. Farchione   | ResNet                                              |  |
+| 4   | 2026-10-07    | 2026-10-14            | Xiangjun Tang        | U-Net                                               |  |
+| 5   | 2026-10-21    | 2026-10-28            | Fedor Rodionov       | Transformer                                         |  |
+| 6   | 2026-11-01    | 2026-11-08            | Wenqing Cui          | Graph Convolutional Networks (GCNs)                 |  |
+| 7   | 2026-11-11    | 2026-11-18            | Diego E. Farchione   | Diffusion (DDPM)                                    |  |
+| 8   | 2026-11-22    | 2026-11-29            | Xiangjun Tang        | LLMs + LoRA                                         |  |
 
 # General Assignments
 Each General Assignment covers material taught in class (course review). *Exceptions: GA1's deadline is extended to September 20 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester. GA2 shares PA2's September 20-27 window instead of the usual staggered layout, since September 23 (Saudi National Day) blocks the normal offset.*
 
 | Nr. | Announcement | Submission Deadline | Teaching Assistant  | Topic                                     |
 | --- | ------------ | -------------------- | ------------------- | ------------------------------------------ |
-| 1   | 2026-09-02   | 2026-09-20            | Fedor Rodionov       | Foundations of Deep Learning                |
-| 2   | 2026-09-20   | 2026-09-27            | Wenqing Cui          | Layers, Activations & the Chain Rule        |
-| 3   | 2026-09-30   | 2026-10-07            | Diego E. Farchione   | Initialization, Regularization & Optimizers |
-| 4   | 2026-10-14   | 2026-10-21            | Xiangjun Tang        | Reading a Training Run                      |
-| 5   | 2026-10-25   | 2026-11-01            | Fedor Rodionov       | How Attention Sees                          |
-| 6   | 2026-11-04   | 2026-11-11            | Wenqing Cui          | Generating Images                           |
-| 7   | 2026-11-15   | 2026-11-22            | Diego E. Farchione   | Search, Graphs & Sequences                  |
-| 8   | 2026-11-25   | 2026-12-02            | Xiangjun Tang        | Attacks, Diffusion & the Modern Transformer Stack |
+| 1   | 2026-09-02   | 2026-09-20            | Fedor Rodionov       | Tensors & Linear Classifier                 |
+| 2   | 2026-09-20   | 2026-09-27            | Wenqing Cui          | ConvNets                                    |
+| 3   | 2026-09-30   | 2026-10-07            | Diego E. Farchione   | ResNet                                      |
+| 4   | 2026-10-14   | 2026-10-21            | Xiangjun Tang        | U-Net                                       |
+| 5   | 2026-10-25   | 2026-11-01            | Fedor Rodionov       | Transformer                                 |
+| 6   | 2026-11-04   | 2026-11-11            | Wenqing Cui          | Graph Convolutional Networks (GCNs)         |
+| 7   | 2026-11-15   | 2026-11-22            | Diego E. Farchione   | Diffusion (DDPM)                            |
+| 8   | 2026-11-25   | 2026-12-02            | Xiangjun Tang        | LLMs + LoRA                                 |
 
 # Quizzes
 
@@ -53,6 +53,22 @@ Each General Assignment covers material taught in class (course review). *Except
 
 <!-- Makeup Final: 2027-01-14, 03:00 p.m., Full Course Content -->
 
+# Grading Scale
+
+| Grade | Range    |
+| ----- | -------- |
+| A     | 95 - 100 |
+| A-    | 90 - 95  |
+| B+    | 85 - 90  |
+| B     | 80 - 85  |
+| B-    | 75 - 80  |
+| C+    | 70 - 75  |
+| C     | 65 - 70  |
+| C-    | 60 - 65  |
+| D+    | 55 - 60  |
+| D     | 50 - 55  |
+| D-    | 45 - 50  |
+| F     | < 45     |
 
 # Slack Channel
 Please attend the [Slack Workspace](https://join.slack.com/t/cs225-2026/shared_invite/zt-46zyenoo3-6vssDE23NX7m9Z0r3hIODA) of the course to ask questions. Please always use the `#general` channel to ask assignment-related questions and only contact the respective TA in exceptional cases.

@@ -16,11 +16,11 @@ Each Programming Assignment covers a specific topic and is submitted via [BlackB
 | 1   | 2026-08-30    | 2026-09-16            | Fedor Rodionov       | Tensors & Linear Classifier                         |  |
 | 2   | 2026-09-20    | 2026-09-27            | Wenqing Cui          | ConvNets                                            |  |
 | 3   | 2026-09-27    | 2026-10-04            | Diego E. Farchione   | ResNet                                              |  |
-| 4   | 2026-10-07    | 2026-10-14            | Xiangjun Tang        | U-Net                                               |  |
+| 4   | 2026-10-07    | 2026-10-14            | Samy Mounir          | U-Net                                               |  |
 | 5   | 2026-10-21    | 2026-10-28            | Fedor Rodionov       | Transformer                                         |  |
 | 6   | 2026-11-01    | 2026-11-08            | Wenqing Cui          | Graph Convolutional Networks (GCNs)                 |  |
 | 7   | 2026-11-11    | 2026-11-18            | Diego E. Farchione   | Diffusion (DDPM)                                    |  |
-| 8   | 2026-11-22    | 2026-11-29            | Xiangjun Tang        | LLMs + LoRA                                         |  |
+| 8   | 2026-11-22    | 2026-11-29            | Samy Mounir          | LLMs + LoRA                                         |  |
 
 # General Assignments
 Each General Assignment covers material taught in class (course review). *Exceptions: GA1's deadline is extended to September 20 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester. GA2 shares PA2's September 20-27 window instead of the usual staggered layout, since September 23 (Saudi National Day) blocks the normal offset.*
@@ -30,11 +30,11 @@ Each General Assignment covers material taught in class (course review). *Except
 | 1   | 2026-09-02   | 2026-09-20            | Fedor Rodionov       | Tensors & Linear Classifier                 |
 | 2   | 2026-09-20   | 2026-09-27            | Wenqing Cui          | ConvNets                                    |
 | 3   | 2026-09-30   | 2026-10-07            | Diego E. Farchione   | ResNet                                      |
-| 4   | 2026-10-14   | 2026-10-21            | Xiangjun Tang        | U-Net                                       |
+| 4   | 2026-10-14   | 2026-10-21            | Samy Mounir          | U-Net                                       |
 | 5   | 2026-10-25   | 2026-11-01            | Fedor Rodionov       | Transformer                                 |
 | 6   | 2026-11-04   | 2026-11-11            | Wenqing Cui          | Graph Convolutional Networks (GCNs)         |
 | 7   | 2026-11-15   | 2026-11-22            | Diego E. Farchione   | Diffusion (DDPM)                            |
-| 8   | 2026-11-25   | 2026-12-02            | Xiangjun Tang        | LLMs + LoRA                                 |
+| 8   | 2026-11-25   | 2026-12-02            | Samy Mounir          | LLMs + LoRA                                 |
 
 # Quizzes
 

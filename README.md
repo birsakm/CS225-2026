@@ -9,7 +9,7 @@ Neural Network Design and Training
 The slides to the introduction given in class you can find [here](https://docs.google.com/presentation/d/1adSvUBdmMHhY_b6Zz2vvW4oIyCCtxSp_eIPko2GK6JM/edit?usp=sharing). We further created a short [Introduction](introduction.md) about the prerequisites of the course, which hardware to use and how to set up the programming environment.
 
 # Programming Assignments
-Each Programming Assignment covers a specific topic and is submitted via [BlackBoard](https://blackboard.kaust.edu.sa/). *Exception: PA1's deadline is extended to September 16 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester.*
+Each Programming Assignment covers a specific topic and is submitted via [BlackBoard](https://blackboard.kaust.edu.sa/). *Exceptions: PA1's deadline is extended to September 16 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester. PA5's deadline has been moved to October 30.*
 
 | Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Instructions |
 | --- | ------------- | -------------------- | ------------------- | -------------------------------------------------- | -------------------- |
@@ -17,7 +17,7 @@ Each Programming Assignment covers a specific topic and is submitted via [BlackB
 | 2   | 2026-09-20    | 2026-09-27            | Wenqing Cui          | ConvNets                                            |  |
 | 3   | 2026-09-27    | 2026-10-04            | Diego E. Farchione   | ResNet                                              |  |
 | 4   | 2026-10-07    | 2026-10-14            | Samy Mounir          | U-Net                                               |  |
-| 5   | 2026-10-21    | 2026-10-28            | Fedor Rodionov       | Transformer                                         |  |
+| 5   | 2026-10-21    | 2026-10-30            | Fedor Rodionov       | Transformer                                         |  |
 | 6   | 2026-11-01    | 2026-11-08            | Wenqing Cui          | Graph Convolutional Networks (GCNs)                 |  |
 | 7   | 2026-11-11    | 2026-11-18            | Diego E. Farchione   | Diffusion (DDPM)                                    |  |
 | 8   | 2026-11-22    | 2026-11-29            | Samy Mounir          | LLMs + LoRA                                         |  |
@@ -31,7 +31,7 @@ Each General Assignment covers material taught in class (course review). *Except
 | 2   | 2026-09-20   | 2026-09-27            | Wenqing Cui          | ConvNets                                    |
 | 3   | 2026-09-30   | 2026-10-07            | Diego E. Farchione   | ResNet                                      |
 | 4   | 2026-10-14   | 2026-10-21            | Samy Mounir          | U-Net                                       |
-| 5   | 2026-10-25   | 2026-11-01            | Fedor Rodionov       | Transformer                                 |
+| 5   | 2026-10-28   | 2026-11-04            | Fedor Rodionov       | Transformer                                 |
 | 6   | 2026-11-04   | 2026-11-11            | Wenqing Cui          | Graph Convolutional Networks (GCNs)         |
 | 7   | 2026-11-15   | 2026-11-22            | Diego E. Farchione   | Diffusion (DDPM)                            |
 | 8   | 2026-11-25   | 2026-12-02            | Samy Mounir          | LLMs + LoRA                                 |

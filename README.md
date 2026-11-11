@@ -46,7 +46,7 @@ Each Programming Assignment covers a specific topic and is submitted via [BlackB
 | 4   | 2026-10-07    | 2026-10-14            | Samy Mounir          | U-Net                                               |  |
 | 5   | 2026-10-21    | 2026-10-30            | Fedor Rodionov       | Transformer                                         |  |
 | 6   | 2026-11-01    | 2026-11-08            | Wenqing Cui          | Deep Learning Review                                |  |
-| 7   | 2026-11-11    | 2026-11-18            | Diego E. Farchione   | Diffusion (DDPM) *(planned)*                        |  |
+| 7   | 2026-11-11    | 2026-11-18            | Diego E. Farchione   | Masked Autoencoders (Self-Supervised Learning)      |  |
 | 8   | 2026-11-22    | 2026-11-29            | Samy Mounir          | LLMs + LoRA *(planned)*                             |  |
 
 # General Assignments

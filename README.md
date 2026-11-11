@@ -36,7 +36,7 @@ The lectures cover the topics listed in the syllabus, but not necessarily in the
 | Nov 4, 8         | Self-Supervised Learning                                    | D08    |
 
 # Programming Assignments
-Each Programming Assignment covers a specific topic and is submitted via [BlackBoard](https://blackboard.kaust.edu.sa/). *Exceptions: PA1's deadline is extended to September 16 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester. PA5's deadline has been moved to October 30. Topics marked as planned may still change.*
+Each Programming Assignment covers a specific topic and is submitted via [BlackBoard](https://blackboard.kaust.edu.sa/). *Exceptions: PA1's deadline is extended to September 16 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester. PA5's deadline has been moved to October 30.*
 
 | Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Instructions |
 | --- | ------------- | -------------------- | ------------------- | -------------------------------------------------- | -------------------- |
@@ -47,10 +47,10 @@ Each Programming Assignment covers a specific topic and is submitted via [BlackB
 | 5   | 2026-10-21    | 2026-10-30            | Fedor Rodionov       | Transformer                                         |  |
 | 6   | 2026-11-01    | 2026-11-08            | Wenqing Cui          | Deep Learning Review                                |  |
 | 7   | 2026-11-11    | 2026-11-18            | Diego E. Farchione   | Masked Autoencoders (Self-Supervised Learning)      |  |
-| 8   | 2026-11-22    | 2026-11-29            | Samy Mounir          | LLMs + LoRA *(planned)*                             |  |
+| 8   | 2026-11-22    | 2026-11-29            | Samy Mounir          | TBA                                                 |  |
 
 # General Assignments
-Each General Assignment covers material taught in class (course review). *Exceptions: GA1's deadline is extended to September 20 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester. GA2 shares PA2's September 20-27 window instead of the usual staggered layout, since September 23 (Saudi National Day) blocks the normal offset. The topic column lists the lecture material each General Assignment actually covers; topics marked as planned may still change.*
+Each General Assignment covers material taught in class (course review). *Exceptions: GA1's deadline is extended to September 20 (instead of the usual one-week window), since students can still change their registration during the first two weeks of the semester. GA2 shares PA2's September 20-27 window instead of the usual staggered layout, since September 23 (Saudi National Day) blocks the normal offset. The topic column lists the lecture material each General Assignment actually covers.*
 
 | Nr. | Announcement | Submission Deadline | Teaching Assistant  | Topic                                     |
 | --- | ------------ | -------------------- | ------------------- | ------------------------------------------ |
@@ -60,8 +60,8 @@ Each General Assignment covers material taught in class (course review). *Except
 | 4   | 2026-10-14   | 2026-10-21            | Samy Mounir          | Upsampling, U-Net & Attention               |
 | 5   | 2026-10-28   | 2026-11-04            | Fedor Rodionov       | Fully Connected Networks, Data Preprocessing & Initialization |
 | 6   | 2026-11-04   | 2026-11-11            | Wenqing Cui          | Course Review                               |
-| 7   | 2026-11-15   | 2026-11-22            | Diego E. Farchione   | Diffusion (DDPM) *(planned)*                |
-| 8   | 2026-11-25   | 2026-12-02            | Samy Mounir          | LLMs + LoRA *(planned)*                     |
+| 7   | 2026-11-15   | 2026-11-22            | Diego E. Farchione   | Masked Autoencoders (Self-Supervised Learning) |
+| 8   | 2026-11-25   | 2026-12-02            | Samy Mounir          | TBA                                         |
 
 # Quizzes
 
